@@ -1,0 +1,11 @@
+body {
+  font-family: sans-serif;
+  background: darken(white, 0.2);
+}
+
+.repo {
+  background: url(../assets/img/github.png) center center no-repeat;
+  background-size: contain;
+  width: 25px;
+  height: 25px;
+}
